@@ -1,6 +1,4 @@
 one
-<<<<<<< HEAD
 second
 third
-=======
->>>>>>> parent of 41c8956... second
+
